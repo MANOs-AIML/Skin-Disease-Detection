@@ -1,6 +1,6 @@
 <div align ='center'>
   
-# 18CSC305J - AI
+
 ### Domain : Machine Learning / AI
   
   </div>
